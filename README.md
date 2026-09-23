@@ -1,51 +1,122 @@
-# Hi there, I'm Mohid Ahmad 👋
+<div align="center">
 
-🚀 **Full-Stack Web Developer, Digital Marketer & E-Commerce Builder** based in Karachi, Pakistan. I specialize in building responsive web applications, automated marketing workflows, and digital storefronts that bridge technology and business.
+  <h1>👋 Hi, I'm Mohid Ahmad</h1>
+  <h3>Full-Stack Web Developer & E-Commerce Automation Specialist</h3>
 
----
+  <p align="center">
+    <b>Building scalable web platforms • Constructing digital storefronts • Automating smart workflows</b>
+  </p>
 
-## 🛠️ Tech Stack & Tools
+  <p align="center">
+    📍 Karachi, Pakistan &nbsp;|&nbsp; 
+    💼 Freelance Web Developer & Marketer &nbsp;|&nbsp; 
+    🛠️ Tech Stack Enthusiast
+  </p>
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
-* **Backend & APIs:** Node.js, Express.js, MongoDB, Google Apps Script, Web Speech API
-* **Workflow Automation & Tools:** Pipedream, Make.com, Git, GitHub, Spck Editor, VS Code
-* **Digital Marketing & E-Commerce:** Meta Ads (Facebook/Instagram), OLX Optimization, JazzCash Business Integrations
+  <!-- Quick Badges -->
+  <p align="center">
+    <a href="https://github.com/Mohid-Master"><img src="https://img.shields.io/github/followers/Mohid-Master?label=Followers&style=for-the-badge&color=10B981&logo=github" alt="Followers"></a>
+    <a href="https://github.com/Mohid-Master?tab=repositories"><img src="https://img.shields.io/github/stars/Mohid-Master?label=Stars&style=for-the-badge&color=06B6D4&logo=github" alt="Stars"></a>
+    <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-00F5D4?style=for-the-badge" alt="Status">
+  </p>
 
----
-
-## 🌟 Featured Projects
-
-### 💻 E-Commerce & Business Platforms
-* **[MarhabaWorkshopTracker](https://github.com/Mohid-Master/MarhabaWorkshopTracker)** – Management and tracking system tailored for furniture workshop operations.
-* **[Elegenza-The-KurtiCraft](https://github.com/Mohid-Master/Elegenza-The-KurtiCraft)** – Frontend storefront concept for designer kurtis and apparel.
-* **[MR-Store-demo](https://github.com/Mohid-Master/MR-Store-demo)** & **[MEE-Centre-demo](https://github.com/Mohid-Master/MEE-Centre-demo)** – E-commerce demonstration layouts built for local retail experiences.
-* **[MDS-QuicklyYours](https://github.com/Mohid-Master/MDS-QuicklyYours)** – Fast-paced retail and reselling web application concept.
-
-### 🌐 Full-Stack & Web Applications
-* **[Trendsetter](https://github.com/Mohid-Master/Trendsetter) & [Trendsetter_Backend](https://github.com/Mohid-Master/Trendsetter_Backend)** – Full-stack trend and product discovery platform built with a Node.js/Express backend and MongoDB database.
-* **[Fiwa---WebDevelopment-frontend](https://github.com/Mohid-Master/Fiwa---WebDevelopment-frontend)** – Modern client-facing frontend architecture.
-* **[TrafficAnalyzerByMohid](https://github.com/Mohid-Master/TrafficAnalyzerByMohid)** – Analytics utility for monitoring web traffic patterns.
-
-### 🎮 Interactive Web Apps & Games
-* **[Serenity-Keys](https://github.com/Mohid-Master/Serenity-Keys)** – Interactive musical tile web experience.
-* **[math-questions-by-mohid](https://github.com/Mohid-Master/math-questions-by-mohid)** – Educational web utility for practicing mathematical problems.
-* **[age-calculator-by-mohid](https://github.com/Mohid-Master/age-calculator-by-mohid)** – Clean, responsive JavaScript utility calculator.
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohid-Master&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohid's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohid-Master&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+- 💻 **Frontend & Backend:** Crafting fast, responsive web apps with **React.js**, **Node.js**, **Express**, and **MongoDB**.
+- 🛍️ **E-Commerce Solutions:** Designing custom inventory trackers, storefronts, and automated order flows (**MarhabaWorkshopTracker**, **Elegenza**).
+- ⚙️ **Workflow Automation:** Connecting web apps with **Pipedream**, **Make.com**, **Google Apps Script**, and Meta Ads APIs.
+- ⚡ **Interactive Utilities:** Developing audio engines, speech-controlled web tools, and web-based games (**Serenity-Keys**).
 
 ---
 
-## 📫 Connect With Me
+### 🛠️ Tech Stack & Ecosystem
 
-* **Portfolio:** Check out my live web creations via my repositories!
-* **Location:** Karachi, Pakistan
-*  **Phone:** 03098178570
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Frontend</h4>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <h4>⚙️ Backend & Database</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Automation & Tools</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Pipedream-000000?style=flat-square&logo=pipedream&logoColor=white" />
+        <img src="https://img.shields.io/badge/Make.com-6A15DA?style=flat-square&logo=make&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </p>
+      <h4>📈 Marketing & Digital</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Meta_Ads-0467DF?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/E--Commerce-10B981?style=flat-square&logo=shopify&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web_Analytics-06B6D4?style=flat-square&logo=googleanalytics&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Top Featured Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔥 Full-Stack & Platforms</h3>
+      <ul>
+        <li><b><a href="https://github.com/Mohid-Master/Trendsetter">Trendsetter</a></b> & <b><a href="https://github.com/Mohid-Master/Trendsetter_Backend">Backend</a></b><br>Full-stack product discovery engine with REST API, Express, & MongoDB.</li>
+        <li><b><a href="https://github.com/Mohid-Master/TrafficAnalyzerByMohid">Traffic Analyzer</a></b><br>Real-time client analytics and web usage metrics processor.</li>
+        <li><b><a href="https://github.com/Mohid-Master/Fiwa---WebDevelopment-frontend">Fiwa Frontend</a></b><br>Modern responsive agency architecture.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ E-Commerce & Utilities</h3>
+      <ul>
+        <li><b><a href="https://github.com/Mohid-Master/MarhabaWorkshopTracker">Marhaba Workshop Tracker</a></b><br>Order management & tracking dashboard for workshop operations.</li>
+        <li><b><a href="https://github.com/Mohid-Master/Elegenza-The-KurtiCraft">Elegenza KurtiCraft</a></b><br>Digital catalog and storefront interface.</li>
+        <li><b><a href="https://github.com/Mohid-Master/Serenity-Keys">Serenity Keys</a></b><br>Interactive web game and music canvas.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohid-Master&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</div>
+
+
+### 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+  <a href="https://github.com/Mohid-Master">
+    <img src="https://img.shields.io/badge/GitHub-Mohid--Master-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mohid-Master/My-Portfolio">
+    <img src="https://img.shields.io/badge/Web_Portfolio-Live-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <br><br>
+  <sub>⚡ Designed and maintained by Mohid Ahmad • Always open to new development & e-commerce automation projects</sub>
+
+</div>
